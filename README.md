@@ -25,6 +25,10 @@ if you have git in command line:
 
 ## Screenshots
 
+![Start game](img/start_game.png)
 
+![mid game](img/mid_game.png)
+
+![End game](img/end_game.png)
 
 
