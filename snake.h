@@ -10,8 +10,7 @@ class Snake
         std::map<char, int>* positiion;
         int spead;
 
-    public:
-    
+    public:  
         Snake();
         int getSize() const;
         std::map<char, int>* getPosition() const;

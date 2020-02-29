@@ -79,7 +79,8 @@ void Field::showSnake()
         std::cout << '@';
     }
     this->setCursorPosition(position[size_snake - 1]['x'], position[size_snake - 1]['y']);
-    std::cout << ' ';    
+    std::cout << ' ';
+    this->setCursorPosition(SIZE_FIELD, SIZE_FIELD);    
 }
 
 Field::~Field()
